@@ -39,3 +39,15 @@ router.get("/api/workouts", (req, res) => {
         });
 });
 
+router.get("/api/workouts/range", (req, res) => {
+    console.log('Get api/workouts/range')
+    Workout.find({}, (err, data) => {
+        if (err) {
+            res.status(400).json(err);
+        } else {
+            res.json(data);
+        }
+    })
+});
+
+module.exports = router;
