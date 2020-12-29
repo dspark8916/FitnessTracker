@@ -11,3 +11,19 @@ router.post("/api/workouts", ({ body }, res) => {
             res.status(400).json(err);
         });
 });
+
+router.put("/api/workouts/:id", (req, res) => {
+    console.log('Put api/workouts/:id')
+    Workout.findByIdAndUpdate(
+        req.params.id,
+        { $push: { exercises: req.body} },
+        { new: true }
+    )
+        .then(dbWorkout => {
+            res.json(dbWorkout);
+        })
+        .catch(err => {
+            res.status(400).json(err);
+        });
+});
+
