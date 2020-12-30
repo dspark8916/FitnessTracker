@@ -2,7 +2,8 @@
 
 ## Description
 
-
+The task this week was to create a Fitness Tracker to allow a user to be able to track their daily workouts by inputing specific information about their workouts and exercises. The benefits of logging and tracking
+makes it more likely that the user will reach and surpass their goal. It allows the user to be more efficient with their time and workouts. It lends accountability to the user and their goals. Finally, it allows for easier modifications and shows when and where changes need to be made. The Fitness Tracker is of great importance for any user and will certainly make their life easier and get them on the right track to reaching their ultimate fitness goals!!
 
 ## User Story
 
