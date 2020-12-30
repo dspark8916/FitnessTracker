@@ -24,7 +24,7 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 
 ## Usage
 
-
+The main purpose of this app is to allow a user to be able to view, create, and track daily workouts. They will be able to log mulitple exercises and can track them by name, type, weight, sets, reps, and duration of the exercise. If the user does cardio they will also be able to track the distance traveled. Upon loading the page user will have the option to create new workout or continue with their last workout. Allowing the user to keep track of their workout will make life easier for them!!
 
 ## Contributing
 
