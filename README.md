@@ -47,16 +47,16 @@ Please check out the following link to see the finished product:
 
 ## ScreenShots
 
-Add Exercise
+Front Page Allowing You To Add Exercise:
 ![Add Exercise](public/assets/images/AddExercise.png)
 
-Example of Cardio Exercise
+Example of Cardio Exercise:
 ![Cardio](public/assets/images/CardioExercise.png)
 
-Example of Resistance Exercise
+Example of Resistance Exercise:
 ![Resistance](public/assets/images/ResistanceExercise.png)
 
-Recap of Last Workout Completed
+Recap of Last Workout Completed:
 ![Last Workout](public/assets/images/LastWorkout.png)
 
 ## Contact
