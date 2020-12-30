@@ -43,7 +43,7 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 
 Please check out the following link to see the finished product:
 
-[Deployed App]()
+[Deployed App](https://dm-fit-app.herokuapp.com/)
 
 ## ScreenShots
 
